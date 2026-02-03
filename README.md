@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaaa # expert-octo-invention a
+aaaaaaaaaaaaaaaaaaaaaaaa # expert-octo-invention a
 a
  a
 a
@@ -14,7 +14,7 @@ aa
 aa
 aa
 aa
-aaa
+aaaa
 aa
 aa
 aa
